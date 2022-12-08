@@ -7,7 +7,7 @@ Edited by [*Yingru Li*](https://github.com/szrlee).
 Before compiling, the following software should be installed in your system.
 
 * g++
-* Xeltex
+* Xelatex
 * R packages 
 
 Compile both the base algorithms and the HICODE program.  
